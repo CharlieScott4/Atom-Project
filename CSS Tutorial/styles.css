@@ -1,0 +1,27 @@
+body {
+  color: #414141;
+  background-color: #EEEEEE
+}
+h1 {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+h1{
+font-size: 36px;
+}
+h2 {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+h2{font-size: 28px;}
+ul {
+  list-style-type: circle;
+}
+
+ol {
+  list-style-type: circle;}
+<link rel='stylesheet' href='styles.css'/>
+p {
+  text-align: left;
+  strong {
+    font-weight: normal;
+    font-style: italic;
+  }
