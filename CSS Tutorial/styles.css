@@ -19,9 +19,3 @@ ul {
 ol {
   list-style-type: circle;}
 <link rel='stylesheet' href='styles.css'/>
-p {
-  text-align: left;
-  strong {
-    font-weight: normal;
-    font-style: italic;
-  }
